@@ -1,1 +1,1 @@
-# teamCICD https://github.com/shashikab/teamCICD.git
+# teamCICD https://github.com/shashikab/teamCIC
