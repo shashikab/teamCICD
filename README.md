@@ -1,1 +1,1 @@
-# teamCICD https://github.com/shashikab/t e mC IC
+# teamCICD https://github.com/shashikab/t e C IC
